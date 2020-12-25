@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="welcome">Willkommen</string>
+    <string name="user">Bitte Benutzernamen Eingeben</string>
+    <string name="user_name">Benutzername</string>
+    <string name="ok">Weiter</string>
+    <string name="toshort">Benutzername muss mindestens 3 Buchstaben lang sein</string>
+    <string name="vegie">Vegetarisch</string>
+    <string name="meat">Rind</string>
+    <string name="pork">Schwein</string>
+    <string name="chicken">Huhn</string>
+    <string name="starter">Vorspeise</string>
+    <string name="dessert">Dessert</string>
+    <string name="fish">Fisch</string>
+    <string name="category">Kategorie</string>
+    <string name="ingredient">Zutat</string>
+    <string name="quantity">Menge</string>
+    <string name="method">Schritt</string>
+</resources>
